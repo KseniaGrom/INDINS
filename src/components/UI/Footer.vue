@@ -7,10 +7,10 @@
       <nav>
         <ul>
           <li>
-            <a href="#">Главная</a>
+            <router-link to="/Main">Главная</router-link>
           </li>
           <li>
-            <a href="#">Магазин</a>
+            <router-link to="/">Магазин</router-link>
           </li>
         </ul>
       </nav>
